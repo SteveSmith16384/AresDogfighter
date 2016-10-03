@@ -1,0 +1,12 @@
+**/bin
+*~
+.svn
+**/gen/
+*.apk
+*log.txt
+backups
+*.ods#
+sources.txt
+*.zip
+.settings
+
