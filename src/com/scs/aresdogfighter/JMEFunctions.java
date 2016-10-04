@@ -44,7 +44,7 @@ public class JMEFunctions {
 				ship = assetManager.loadModel(filename);
 				//}
 			}
-		} catch (AssetNotFoundException ex) {
+		} catch (AssetNotFoundException | IllegalArgumentException ex) {
 			// Do nothing
 		}
 		if (ship == null) {

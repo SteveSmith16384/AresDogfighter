@@ -50,7 +50,7 @@ public class SelectGameTypeMenu extends AbstractNumberMenu {
 	public void optionSelected(String i) {
 		if (i.equals("1")) {
 			Statics.GAME_TYPE++;
-			if (Statics.GAME_TYPE > 2) {
+			if (Statics.GAME_TYPE > 1) {
 				Statics.GAME_TYPE = 0;
 			}
 			checkWingmen();

@@ -9,4 +9,5 @@ backups
 sources.txt
 *.zip
 .settings
+ares_config.txt
 

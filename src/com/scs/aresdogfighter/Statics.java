@@ -14,11 +14,11 @@ public class Statics {
 
 	public static final double VERSION = 0.05;
 	public static final boolean SCENIC_INTRO = false;
-	public static final boolean SHOW_LOGO = false;
-	public static final boolean HIDE_MOUSE = false;
-	public static final boolean DEBUG_AI = true;
-	public static final boolean DEBUG = true;
-	public static final boolean STRICT = true;
+	public static final boolean SHOW_LOGO = true;
+	public static final boolean HIDE_MOUSE = true;
+	public static final boolean DEBUG_AI = false;
+	public static final boolean DEBUG = false;
+	public static final boolean STRICT = false;
 	public static final boolean SHIP_TRAILS = false;
 	public static final boolean AI_SHOOTS = true;
 	public static final boolean SHIPS_GET_DAMAGE = true;
@@ -26,7 +26,7 @@ public class Statics {
 	//public static final boolean LAND_ON_PLANET = false;
 	public static final boolean USE_LOWPOLY = true;
 
-	public static final int MAX_ENEMY_FIGHTERS = 1; // todo - change
+	public static final int MAX_ENEMY_FIGHTERS = 3; // todo - change
 	public static final int MAX_ASTEROIDS = 10;
 	public static final int EVENT_INTERVAL = 60;//*10000;
 	public static final float MAX_SCANNER_RANGE = 600f;
@@ -66,7 +66,7 @@ public class Statics {
 	public static int CREDITS = 0;
 	public static int CONFIG_VERSION = 0;
 	public static int NUM_WINGMEN = 0;
-	public static int GAME_TYPE = 0;
+	public static int GAME_TYPE = 1;
 
 	// Game types
 	public static final int GT_DOGFIGHT = 0;
