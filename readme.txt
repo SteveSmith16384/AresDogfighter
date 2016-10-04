@@ -1,32 +1,15 @@
-
 ARES:DOGFIGHTER
 
-
-
 A space dogfighting simulation.  
-Please note that this version is a proof-of-concept and very early in development, and probably has lots of bugs!  All comments and suggestions welcome.  For more help and information, visit http://www.aresdogfighter.com/
 
-
-
+Please note that this version is a proof-of-concept and very early in development, and probably has lots of bugs!  All comments and suggestions welcome.  For more help and information, visit http://www.aresdogfighter.com/ or email stephen.carlylesmith@googlemail.com
 
 
 (C)2016 Stephen Carlyle-Smith
 
 
-
-
-
-HOW TO RUN:-
-
-You will need Java installed.  Get Java at https://java.com/en/download/
-Once you have downloaded the file, extract it and then:-
-
-
-
-Windows: run aresdogfighter.exe
-Linux: run aresdogfighter.sh
-
-
+REQUIREMENTS:-
+You will need Java.
 
 
 
@@ -53,19 +36,9 @@ Esc - Return to main menu/exit game
 
 
 
-
-
-
-
-
-
 CREDITS:-
-
 Programming by Stephen Carlyle-Smith <stephen.carlylesmith@gmail.com>
-
 3D Models by Quaternius
-
 Music by Alexandr Zhelanov (https://soundcloud.com/alexandr-zhelanov)
-
 For more credits, see http://www.aresdogfighter.com/
 
