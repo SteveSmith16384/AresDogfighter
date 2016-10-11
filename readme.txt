@@ -8,6 +8,15 @@ Please note that this version is a proof-of-concept and very early in developmen
 (C)2016 Stephen Carlyle-Smith
 
 
+    Wiki: http://ares-game.wikia.com/wiki/Ares:Dogfighter_Wiki
+    Video: https://www.youtube.com/watch?v=PP9DU8DS95w
+    Twitter https://twitter.com/Ares_Dogfighter
+    IndieDB: http://www.indiedb.com/games/aresdogfighter
+    GameJolt: http://gamejolt.com/games/ares-dogfighter/156604
+    Itch.io: https://stephensmith.itch.io/aresdogfighter
+    Reddit [pretty dead ATM]: https://www.reddit.com/r/aresdogfighter/
+
+
 REQUIREMENTS:-
 You will need Java.
 
