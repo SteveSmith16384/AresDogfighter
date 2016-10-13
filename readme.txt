@@ -4,6 +4,7 @@ A space dogfighting simulation.
 
 Please note that this version is a proof-of-concept and very early in development, and probably has lots of bugs!  All comments and suggestions welcome.  For more help and information, visit http://www.aresdogfighter.com/ or email stephen.carlylesmith@googlemail.com
 
+![alt text](http://media.indiedb.com/cache/images/games/1/52/51958/thumb_620x2000/31.png)
 
 (C)2016 Stephen Carlyle-Smith
 
