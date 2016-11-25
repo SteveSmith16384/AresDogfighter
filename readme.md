@@ -54,4 +54,4 @@ For more credits, see http://www.aresdogfighter.com/
 
 
 LICENCE:-
-The source code is licenced under the MIT licence.  Low poly ship assets licenced under CC0.
+The source code is licenced under the MIT licence.  Low poly ship assets licenced under CC0 (see Qutarius).  All other assets under MIT.
