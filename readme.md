@@ -52,3 +52,6 @@ Programming by Stephen Carlyle-Smith <stephen.carlylesmith@gmail.com>
 Music by Alexandr Zhelanov (https://soundcloud.com/alexandr-zhelanov)
 For more credits, see http://www.aresdogfighter.com/
 
+
+LICENCE:-
+The source code is licenced under the MIT licence.  Low poly ship assets licenced under CC0.
