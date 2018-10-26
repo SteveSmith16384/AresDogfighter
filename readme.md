@@ -47,7 +47,7 @@ Esc - Return to main menu/exit game
 
 CREDITS:-
 Programming by Stephen Carlyle-Smith <stephen.carlylesmith@gmail.com>
-3D Models by Quaternius
+3D Models by Quaternius (http://quaternius.com/)
 Music by Alexandr Zhelanov (https://soundcloud.com/alexandr-zhelanov)
 For more credits, see http://ares-game.wikia.com
 
